@@ -4,7 +4,7 @@ A simple calculator for BUCTers
 ## 快速使用
 1. 安装依赖 *numpy*
 2. 克隆项目
-3. 在 *#data* 处填上对应数据
+3. 在 *#data* 处填上对应数据，或者使用*test.py*前置处理数据并交互
 4. 运行，并根据输出顺序读取
    
 ## 注意事项
